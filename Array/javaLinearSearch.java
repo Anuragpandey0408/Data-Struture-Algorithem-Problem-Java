@@ -1,6 +1,3 @@
-import java.util.*;
-
-
 public class javaLinearSearch {
     public static int linearSearch(int number[], int key){
         for(int i=0; i<=number.length; i++){

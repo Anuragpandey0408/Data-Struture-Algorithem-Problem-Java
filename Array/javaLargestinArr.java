@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class javaLargestinArr {
     public static int LargestNum(int number[]){
         int largest = Integer.MIN_VALUE; // -infinity

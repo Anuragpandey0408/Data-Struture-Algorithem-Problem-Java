@@ -1,6 +1,3 @@
-import java.util.*;
-
-
 public class javaLinearSearch2 {
 
     public static int Menue(String menue[], String Food) {

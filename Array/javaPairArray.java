@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class javaPairArray {
 
     public static void pairArray(int number[]){
