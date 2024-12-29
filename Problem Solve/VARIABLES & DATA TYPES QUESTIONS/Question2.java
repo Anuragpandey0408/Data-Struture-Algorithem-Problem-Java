@@ -16,5 +16,6 @@ public class Question2 {
 
         int sideSqure = side * side;
         System.out.println("side of squre is :"+sideSqure);
+        sc.close();
     }
 }

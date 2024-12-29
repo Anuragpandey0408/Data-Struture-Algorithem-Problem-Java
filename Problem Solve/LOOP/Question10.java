@@ -10,5 +10,6 @@ public class Question10 {
             }
         }
         System.out.println("Printed Reverse odd Digit");
+        sc.close();
     }
 }

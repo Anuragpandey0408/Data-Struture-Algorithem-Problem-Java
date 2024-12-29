@@ -16,6 +16,7 @@ public class Question1 {
 
         int avrg = (input1 + input2 + input3) / 3;
         System.out.println("Avrage is : "+ avrg);
+        sc.close();
 
 
 
